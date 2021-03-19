@@ -4,7 +4,7 @@ import random
 
 from telebot import types
 
-TOKEN = '101010101010101010101010101010'
+TOKEN = 'your token'
 
 bot = telebot.TeleBot(TOKEN)
 
